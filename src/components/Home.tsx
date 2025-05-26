@@ -16,7 +16,7 @@ const Home = () => {
             avec 2 ans d'expérience, utilisant de nombreuses technologies comme React <br /> et Node.js.
             Contactez-moi si vous avez besoin de mes services.
         </p>
-        <a href="" className="btn btn-accent md:w-fit">
+        <a href="mailto:stephanenziengui.sn@gmail.com?" className="btn btn-accent md:w-fit">
             <Mail className="w-5 h-5"/>
             Contactez-moi
         </a>
