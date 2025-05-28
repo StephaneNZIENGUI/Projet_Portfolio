@@ -11,7 +11,7 @@ const Home = () => {
             <span className="text-accent">NGOYE NZIENGUI François</span>
         </h1>
         <p className="my-4 text-md text-center md:text-left">
-            Je suis un freelance Développeur Front-end
+            Je suis freelance Développeur Front-end & Expert en Cybersécurité
             <br />
             avec 2 ans d'expérience, utilisant de nombreuses technologies comme React <br /> et Node.js.
             Contactez-moi si vous avez besoin de mes services.
