@@ -38,6 +38,7 @@ const experiences = [
             "Conception et création d’interface utilisateur",
             "Intégration d’API",
             "Création de script",
+            "Ecrire les différentes procédures d’intégrations",
             "Tests unitaires",
             "Mise en production",
         ],
