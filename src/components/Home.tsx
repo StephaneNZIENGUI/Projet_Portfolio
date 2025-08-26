@@ -1,5 +1,5 @@
 import { Mail } from "lucide-react"
-import img from '../assets/IMG_0874-Copy.jpg'
+import img from '../assets/IMG_4261.jpg'
 
 
 const Home = () => {
@@ -11,9 +11,9 @@ const Home = () => {
             <span className="text-accent">NGOYE NZIENGUI François</span>
         </h1>
         <p className="my-4 text-md text-center md:text-left">
-            Je suis freelance Développeur Front-end & Expert en Cybersécurité
+            Je suis Développeur Web & Expert en Cybersécurité
             <br />
-            avec 2 ans d'expérience, utilisant de nombreuses technologies comme React <br /> et Node.js.
+            avec 2 ans d'expérience, utilisant de nombreuses technologies comme .NET, C#, React <br /> et Node.js. <br />
             Contactez-moi si vous avez besoin de mes services.
         </p>
         <a href="mailto:stephanenziengui.sn@gmail.com?" className="btn btn-accent md:w-fit">

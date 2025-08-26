@@ -32,15 +32,32 @@ const experiences = [
     {
         id: 1,
         role: "Freelance",
-        company: "NZIENGU-INNOVATION",
-        period: "Mai 2025 - Présent",
+        company: "NZIENGU-INNOVATION - Projet : Envoi des SMS avec FileMaker via l’API Brevo ",
+        period: "Oct 2021 - Sep 2023",
         description: [
             "Conception et création d’interface utilisateur",
             "Intégration d’API",
             "Création de script",
+            "Ecrire la procédure d'envoi de SMS",
+            "Tests unitaires",
+            "Mise en production"
+            
+        ],
+        image: NZIENG,
+    },
+    {
+        id: 1,
+        role: "Freelance",
+        company: "NZIENGU-INNOVATION - Projet : Intégration de Google Calendar et Gmail dans FileMaker",
+        period: "Mai 2025",
+        description: [
+            "Conception et création d’interface utilisateur",
+            "Intégration d’API",
+            "configuration serveurs, mise en place de solutions de sauvegarde, création de procédures d’exploitation.",
+            "Création de script",
             "Ecrire les différentes procédures d’intégrations",
             "Tests unitaires",
-            "Mise en production",
+            "Mise en production"
         ],
         image: NZIENG,
     },
@@ -58,20 +75,7 @@ const experiences = [
         ],
         image: Planon,
     },
-    {
-        id: 3,
-        role: "Apprenant (Développeur Web)",
-        company: "EPSI",
-        period: "Oct 2021 - Sep 2023",
-        description: [
-            "Analyse et Définition d’un système  d’Information", 
-            "Gestion d’un projet Agile", 
-            "Gestion d’un projet en  Big Data et en Business Intelligence",
-            "Conception d’Application Mobile avec réalité augmenté",
-            
-        ],
-        image: EPSI,
-    },
+    
 ];
 
 
