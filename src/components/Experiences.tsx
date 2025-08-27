@@ -10,7 +10,6 @@ import imgTYPE from "../assets/techno/typescript.svg";
 import imgTAILWIND from "../assets/techno/tailwind.png";
 import imgPRISMA from "../assets/techno/prisma.webp";
 
-import EPSI from "../assets/companies/E.png";
 import Planon from "../assets/companies/P.jpg";
 import NZIENG from "../assets/companies/NZIENG.png";
 
